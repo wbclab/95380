@@ -1,0 +1,7 @@
+{
+	"name": "wbclab/95380",
+	"description": "Test WBC LAB",
+	"require":{
+		"php": ">=7.1.0"
+	}
+}
